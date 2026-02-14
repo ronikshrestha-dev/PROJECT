@@ -1,1 +1,1 @@
-# PROJECT
+# Cafe billing system
